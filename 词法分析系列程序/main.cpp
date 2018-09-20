@@ -349,7 +349,7 @@ int main()
 	sort(B.begin(), B.end());
 	deque<vector<string>> C;//当stack用。
 	C.push_back(B);
-	set<vector<string>> sign;//标记符号。
+	set<vector<string>> sign;//标记符号，与stack配合使用。
 	sign.insert(B);
 
 	vector<string> T;
