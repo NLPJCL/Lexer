@@ -1,0 +1,11 @@
+S	
+Z	
+0	1	
+Q	0 V 
+Q	1 Q U 
+S	0 V Q 
+S	1 Q U 
+U	1 Z 
+V	0 Z 
+Z	0 Z 
+Z	1 Z 
