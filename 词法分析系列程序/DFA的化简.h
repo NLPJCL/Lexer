@@ -400,7 +400,7 @@ int main()
 				}
 			}
 		}
-	}
+	} 
 	cout << "化简之后DFA的转移函数是：" << endl;
 	for (auto w = transform_f.begin(); w != transform_f.end(); w++)
 	{
